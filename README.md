@@ -1,7 +1,7 @@
 ````markdown
-# DeafEd – Setup & Requirements Guide 🤟
+ DeafEd – Setup & Requirements Guide 🤟
 
-## 🧠 Project Overview
+ 🧠 Project Overview
 **DeafEd** is a Final Year Project (FYP) designed to support **illiterate deaf children in Pakistan** by teaching sign language through **real-time gesture recognition**.  
 With **95% of the deaf population unable to read or write**, DeafEd bridges the gap using an interactive **React Native app**, a **Node.js backend**, and a **Python ML backend (Flask + OpenCV)**.  
 
